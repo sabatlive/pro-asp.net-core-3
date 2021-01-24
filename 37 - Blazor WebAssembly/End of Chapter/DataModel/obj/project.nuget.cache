@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MTjV7mUGvUUBp8y7LJBCxWuW79T5ByXEcwhnlsQ8V6sDfUQf9ZcDBO9zksSacuMieTtdpg4Ib+QRf5z9afEtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\GitHub\\pro-asp.net-core-3\\37 - Blazor WebAssembly\\End of Chapter\\DataModel\\DataModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
